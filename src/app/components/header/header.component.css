@@ -111,3 +111,8 @@ box-shadow: none;
 .navbar-default .navbar-collapse {
   border-bottom: 0px;
 }
+
+
+.navbar-nav :hover {
+  color: black
+}
